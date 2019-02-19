@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.9)  14 FEB 2019 13:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.9)  19 FEB 2019 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1967,61 +1967,59 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <9> not available
 (Font)              Font shape `T1/pplj/b/n' tried instead on input line 56.
 
-<./figs/PRCvsTilt/T110.png, id=4, 223.19385pt x 270.41025pt>
-File: ./figs/PRCvsTilt/T110.png Graphic file (type png)
+<./figs/PRCvsTilt/PRCVtilt.png, id=12, 481.3182pt x 294.50024pt>
+File: ./figs/PRCvsTilt/PRCVtilt.png Graphic file (type png)
 
-<use ./figs/PRCvsTilt/T110.png>
-Package pdftex.def Info: ./figs/PRCvsTilt/T110.png used on input line 66.
-(pdftex.def)             Requested size: 144.0pt x 174.46484pt.
+<use ./figs/PRCvsTilt/PRCVtilt.png>
+Package pdftex.def Info: ./figs/PRCvsTilt/PRCVtilt.png used on input line 66.
+(pdftex.def)             Requested size: 312.0pt x 190.90161pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
+
+ []
+
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <8> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 71.
-
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 85.
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figs/PRCvsTilt/T110.png>
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figs/PRCvsTilt/PRCVtilt.
+png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
  (./13-02-2019.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
-
-
-Package rerunfilecheck Warning: File `13-02-2019.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `13-02-2019.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  E2B9C667EA790F2CCA785C2134228541;269.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package rerunfilecheck Info: File `13-02-2019.out' has not changed.
+(rerunfilecheck)             Checksum: E2B9C667EA790F2CCA785C2134228541;269.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 22672 strings out of 493029
- 397319 string characters out of 6136235
- 445748 words of memory out of 5000000
- 25890 multiletter control sequences out of 15000+600000
- 49283 words of font info for 96 fonts, out of 8000000 for 9000
+ 22682 strings out of 493029
+ 397428 string characters out of 6136235
+ 448045 words of memory out of 5000000
+ 25896 multiletter control sequences out of 15000+600000
+ 52672 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,11n,45p,10407b,727s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,45p,10407b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/fpl/fplbj8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 mathpazo/fplmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8
-a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 13-02-2019.pdf (1 page, 299470 bytes).
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on 13-02-2019.pdf (1 page, 759150 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  11 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 

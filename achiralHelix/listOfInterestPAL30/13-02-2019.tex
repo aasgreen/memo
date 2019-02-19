@@ -9,7 +9,7 @@
 
 %use si units
 \usepackage{siunitx}
-\title{}
+\title{Open Questions with PAL30 and Homologs}
 \author{Adam A. S. Green}
 \date{}
 
@@ -53,8 +53,8 @@
 
 \begin{abstract}
 \noindent 
-Though \nfour{phi} has been well characterized by our study, there are several
-open questions that remain for me--- some of which are specific to \nfour{phi},
+Though \nfour{} has been well characterized by our study, there are several
+open questions that remain for me--- some of which are specific to \nfour{},
 and some of which are more general to the implications of the phases that we
 discovered.
 \end{abstract}
@@ -62,14 +62,27 @@ discovered.
 \subsection{Polarization Current vs. Optical Tilt}
 %include this figure
 
-\begin{marginfigure}
-    \includegraphics[width=\linewidth]{./figs/PRCvsTilt/T110.png}
-    \caption{Polarization and optical tilt of \nfour{phi}. (a) The polarization
-        current (PC) and the optical tilt. (b) The cumulative integral of the PC,
+\begin{figure}
+    \includegraphics[width=\linewidth]{./figs/PRCvsTilt/PRCVtilt.png}
+    \caption{Polarization and optical tilt of \nfour{phi} for
+        \SI{110}{\degreeCelsius} and \SI{108}{\degreeCelsius}. (a) The polarization
+        current (PC) and the optical tilt for \nfour{} at
+        \SI{110}{\degreeCelsius}, revealing that the polarization reorients in
+        a Langevin-like process, and once saturates the tilt then reorients. (b) The cumulative integral of the PC,
         $P(E) \propto \int_{E'=0}^{E'=E}dP/dE' dE'+A$, should be proportional to
-        the total polarization, with offset $A$, plotted with the optical tilt.
+        the total polarization, with offset $A$, plotted with the optical tilt
+        at \SI{110}{\degreeCelsius}, confirming that the polarization saturates
+        before the tilt begins to move. (c) The PC and the optical tilt for \nfour{} at
+        \SI{108}{\degreeCelsius}, showing that the tilt moves linear with the
+        polarization, but that there appears to be remants of the
+        \SI{110}{\degreeCelsius} reorientation process (Langevin-like
+        polarization with thresholded tilt alignment). (d) The net polarization plotted with the optical tilt
+        at \SI{110}{\degreeCelsius}, confirming that the polarization
+        \textit{and} tilt reorient linearly with applied field, but is also
+        accompanied by a signitude that is reminiscient of the
+        \SI{110}{\degreeCelsius}.
     }
-\end{marginfigure}
+\end{figure}
 
 \subsection{Model for Polar Switching}
 \subsection{Model for Helical Flucuations}
